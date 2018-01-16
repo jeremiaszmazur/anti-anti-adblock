@@ -1,18 +1,18 @@
-## [EN] Installaion
+## [EN] Installation
 1. Install Tampermonkey plugin ( instruction below )
-2. Open website:
+2. Open website with script:
 
 | FOR WEBSITE | SCRIPT |
 |:-----------------:|:------------------------------:|
 |Kwejk.pl | https://github.com/Cross77/anti-anti-adblock/raw/master/kwejk.user.js |
 |jbzdy.pl | https://github.com/Cross77/anti-anti-adblock/raw/master/jbzdy.user.js |
 
-3. Click "install" script
+3. Click "Install" script
 4. Done, just open/reload website
 
 ## [PL] Instalacja
 1. Zainstaluj wtyczkę Tampermonkey ( instrukcja niżej )
-2. Otwórz stronę:
+2. Otwórz stronę ze skryptem:
 
 | DLA STRONY | SKRYPT |
 |:-----------------:|:------------------------------:|
@@ -20,7 +20,7 @@
 |jbzdy.pl | https://github.com/Cross77/anti-anti-adblock/raw/master/jbzdy.user.js |
 
 
-3. Kliknij "install"
+3. Kliknij "Install"/"Instaluj"
 4. Odśwież stronę internetową
 
 ## Tampermoney Plugin
