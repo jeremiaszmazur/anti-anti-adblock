@@ -3,7 +3,7 @@
 // @name         ANTI ANTI ADBLOCK cda.pl
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  anti anti adblock jbzdy.pl website
+// @description  anti anti adblock cda.pl website
 // @author       https://github.com/Cross77
 // @include      https://cda.pl/*
 // @grant        none
