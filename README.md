@@ -7,6 +7,7 @@
 |Kwejk.pl | https://github.com/Cross77/anti-anti-adblock/raw/master/kwejk.user.js |
 |jbzdy.pl | https://github.com/Cross77/anti-anti-adblock/raw/master/jbzdy.user.js |
 |cda.pl   | https://github.com/Cross77/anti-anti-adblock/raw/master/cda.user.js |
+|pinterest.com| https://github.com/Cross77/anti-anti-adblock/raw/master/pinterest.user.js |
 
 3. Click "Install" script
 4. Done, just open/reload website
@@ -20,6 +21,7 @@
 |Kwejk.pl | https://github.com/Cross77/anti-anti-adblock/raw/master/kwejk.user.js |
 |jbzdy.pl | https://github.com/Cross77/anti-anti-adblock/raw/master/jbzdy.user.js |
 |cda.pl   | https://github.com/Cross77/anti-anti-adblock/raw/master/cda.user.js |
+|pinterest.com| https://github.com/Cross77/anti-anti-adblock/raw/master/pinterest.user.js |
 
 
 3. Kliknij "Install"/"Instaluj"
