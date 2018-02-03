@@ -5,7 +5,7 @@
 // @version      1.0
 // @description  anti anti adblock cda.pl website
 // @author       https://github.com/Cross77
-// @include      https://cda.pl/*
+// @include      https://www.cda.pl/*
 // @grant        none
 // ==/UserScript==
 
