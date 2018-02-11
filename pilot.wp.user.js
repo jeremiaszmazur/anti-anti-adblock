@@ -11,7 +11,7 @@
 
 var vid = document.getElementsByTagName('video');
 var hack = -1;
-setInterval( function(){
+hack = setInterval( function(){
 	if( vid[0].currentTime > 1000 ) clearInterval(hack);
 	else vid[0].currentTime = vid[0].duration;
 }, 3000);
